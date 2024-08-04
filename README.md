@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bly1tz
-- 👀 I’m interested in Kotlin, Swift, Python
+- 👀 I’m interested in Swift, Python
 - 🌱 I’m currently learning Python
 
 <!---
